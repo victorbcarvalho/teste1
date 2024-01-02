@@ -2,3 +2,5 @@ Alterando arquivo.txt
 Oi teste
 
 Nova linha local
+
+mais um teste
