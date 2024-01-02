@@ -1,1 +1,2 @@
 testando rebase, adicionando arquivo rebase.txt
+Nova linha repo remoto
