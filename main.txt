@@ -1,3 +1,4 @@
 testando rebase, adicionando arquivo rebase.txt
 Nova linha repo remoto
 Nova linha main.txt teste
+testando conflito, escrita local user1
