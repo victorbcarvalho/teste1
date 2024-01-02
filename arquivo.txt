@@ -1,1 +1,4 @@
-Alterando arquivo.txtOi teste
+Alterando arquivo.txt
+Oi teste
+
+Nova linha local
