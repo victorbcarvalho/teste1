@@ -5,3 +5,4 @@ Nova linha main.txt teste
 testando conflito, escrita local user1
 
 nova linha user2
+alteracao local
